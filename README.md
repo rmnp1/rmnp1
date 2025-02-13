@@ -1,4 +1,4 @@
-<img src="https://github.com/rmnp1/rmnp1/blob/main/Group%201.svg" width="fit-content">
+![job](./job.png)
 
 ## Hi 👋, I'm Roman
 #### A passionate Python programmer
