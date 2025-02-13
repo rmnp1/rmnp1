@@ -1,3 +1,5 @@
+<img src="./Group 1.svg" />
+
 ## Hi 👋, I'm Roman
 #### A passionate Python programmer
 
