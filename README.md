@@ -1,4 +1,4 @@
-![job](./job.png)
+![job](./job_r.png)
 
 <div align="center">
 
