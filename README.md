@@ -4,8 +4,6 @@
 
 <h1>Roman <a href="https://github.com/rmnp1"> <img src="https://img.shields.io/badge/@rmnp1-1e1e2e?style=flat-square&logo=github&logoColor=cba6f7" alt="@rmnp1" /></a></h1>
 
-
-
 <h3>Backend Engineer · Python </h3>
 
 <p><em>I build reliable server-side systems — database-backed web apps, containerized services, and clean backend logic that holds up under pressure.</em></p>
@@ -20,9 +18,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rmnpl)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmncurrit@gmail.com)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rmnp1&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)
-
 </div>
 
 ---
